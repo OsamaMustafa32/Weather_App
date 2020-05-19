@@ -1,7 +1,7 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+![](https://github.com/OsamaMustafa32/Weather_App/blob/master/Weather%20App.gif)
 
 
-# Clima ☁
+# Weather App ☁
 
 ## Our Goal
 
